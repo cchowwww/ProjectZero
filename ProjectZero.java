@@ -19,7 +19,6 @@ class ProjectZero {
 		if (totalScore/3 > 95) 
 		{
 			System.out.println("Congratuations on your high test scores");
-			System.out.println("Awesome");
 		}
 
     }
